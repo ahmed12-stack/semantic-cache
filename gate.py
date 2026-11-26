@@ -64,6 +64,9 @@ tests = [
     "What is the capital of Germany?",
     "What are your opening hours on Sunday?",
     "How do I bake a cake?",
+    "I don't want to reset my password",
+    "When are you closed?",
+    "How do I remove my email address?",
 ]
 
 for q in tests:
